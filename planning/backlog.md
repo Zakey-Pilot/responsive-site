@@ -33,8 +33,7 @@
   - As a junior developer, I can see an overview of the CLI tool
     - [ ] There is a section showcasing the CLI with an image and feature
           descriptions.
-  - As a non-technical, i can see the estimated prices for
-          different user plans
+  - As a non-technical, i can see the estimated prices for different user plans
     - [ ] There is a section below the CLI tool shows the different prices for
           each plan Eco and Basic, Production, Advanced, Enterprise
 
@@ -43,11 +42,10 @@
 > would be really cool ... if there's time
 
 - **Home Page**
-  - As a user, I can see a sliding animation in the hero home page
-  area
+  - As a user, I can see a sliding animation in the hero home page area
     - [ ] The page has smooth transition, the introduction should slide to the
-      right, the form slides to the left and the statistics section slides
-      upward.
+          right, the form slides to the left and the statistics section slides
+          upward.
   - As a user, I can experience smooth hover effects.
     - [ ] The page has smooth hover effects, on each supported programming
           language.
