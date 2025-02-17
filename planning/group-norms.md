@@ -32,7 +32,7 @@ working as a team, we create a supportive and productive environment.
 - Commit to regular check-ins to ensure progress and prevent future
   misunderstandings.
 
----
+  ***
 
 ### Respect & Active Listening
 
@@ -40,7 +40,7 @@ working as a team, we create a supportive and productive environment.
 - Listen attentively without interrupting.
 - Provide constructive feedback with a positive intent.
 
----
+  ***
 
 ### Time Management
 
@@ -48,7 +48,7 @@ working as a team, we create a supportive and productive environment.
 - Prioritize Tasks, Focus on high-impact work and manage workload effectively.
 - Communicate in advance if changes or delays occur.
 
----
+  ***
 
 ### Communication
 
