@@ -28,11 +28,12 @@ how often will we get in touch on each channel, and what we will discuss there:
 | Day   | Monday  | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday  |
 | ----- | :-----: | :-----: | :-------: | :------: | :----: | :------: | :-----: |
 | Ayman | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 14- 20 | 13 - 20  | 13 - 20 |
+| Rahaf | 15 - 22 | 15 - 22 |  15 - 22  | 15 - 22  | 14- 22 | 15 - 22  | 15 - 20 |
 
 ### How many hours everyone has per day
 
 - Ayman: _5h_;
-- name: _6h_;
+- name: _4h_;
 - name: _5h_;
 - name: _4h_;
 - name: _3h_;
