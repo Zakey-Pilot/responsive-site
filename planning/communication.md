@@ -6,8 +6,8 @@
 
 ## Communication Schedule
 
-| Day    |   How   | The topic of discussion  |
-| ------ | :-----: | :----------------------: |
+| Day | How | The topic of discussion |
+| --- | :-: | :---------------------: |
 
 ## Communication Channels
 
@@ -25,8 +25,8 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Day   | Monday  | Tuesday | Wednesday | Thursday | Friday | Saturday | Sunday  |
+| ----- | :-----: | :-----: | :-------: | :------: | :----: | :------: | :-----: |
 | Ayman | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 14- 20 | 13 - 20  | 13 - 20 |
 
 ### How many hours everyone has per day
