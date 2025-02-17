@@ -15,7 +15,9 @@
     "Verwijs",
     "Todos",
     "wireframe",
-    "Ayman"
+    "Ayman",
+    "Lato",
+    "rgba"
   ],
   "ignorePaths": [
     "node_modules/**",
