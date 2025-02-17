@@ -17,7 +17,9 @@
     "wireframe",
     "Ayman",
     "Lato",
-    "rgba"
+    "rgba",
+    "Youssef",
+    "fintech"
   ],
   "ignorePaths": [
     "node_modules/**",
