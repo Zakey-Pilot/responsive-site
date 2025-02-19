@@ -20,7 +20,8 @@
     "Lato",
     "rgba",
     "Youssef",
-    "fintech"
+    "fintech",
+    "Traversy"
   ],
   "ignorePaths": [
     "node_modules/**",
