@@ -1,16 +1,17 @@
-# Name of project
+# Loruki Responsive Site
 
-> A longer description
+> A project focused on rebuilding a responsive design tutorial while learning
+> and applying best practices in project planning, Agile methodology, Git, and
+> teamwork.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Loruki Responsive Site](#loruki-responsive-site)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
   - [Setup](#setup)
-  - [Code Examples](#code-examples)
   - [Features](#features)
   - [Status](#status)
   - [Inspiration](#inspiration)
@@ -22,43 +23,41 @@
 
 ## General info
 
-> A short description
+> This project involves rebuilding a responsive design tutorial while focusing
+> on key learning objectives such as writing a structured project plan,
+> following Agile methodology, mastering Git and GitHub, and fostering teamwork
+> and communication skills.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![Example screenshot](./planning/screenshot.png)
 
 ## Technologies
 
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- HTML
+- CSS
+- Git & Github
 
 ## Setup
 
 - `npm run start`
 
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
 ## Features
 
 List of features ready and Todos for future development
 
--
--
--
+- Structured learning approach to project planning.
+- Implementation of Agile methodology.
+- Improved collaboration and communication through Git and GitHub.
+- Defined user personas to guide design and development.
 
 To-do list:
 
--
--
+- Implement responsive layouts.
+- Enhance styling using modern CSS techniques.
 
 ## Status
 
@@ -66,11 +65,11 @@ Project is: _in progress_
 
 ## Inspiration
 
-Project by freeCodeCamp.org
+Project by [Traversy Media](https://youtu.be/p0bGHP-PXD4?si=mNvohGaHSmjXl2jM)
 
 ## Contact
 
-By [Name]
+By [Tech Gang]
 
 ## Instructions for use
 
@@ -79,8 +78,8 @@ By [Name]
 
 <!-- a guide to using this repository -->
 
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
+1. `git clone https://github.com/Zakey-Pilot/responsive-site.git`
+2. `cd responsive-site`
 3. `npm install`
 
 ## Code Quality Checks
