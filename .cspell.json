@@ -21,7 +21,9 @@
     "rgba",
     "Youssef",
     "fintech",
-    "Shuqair"
+    "Shuqair",
+    "flexbox",
+    "Traversy"
   ],
   "ignorePaths": [
     "node_modules/**",
