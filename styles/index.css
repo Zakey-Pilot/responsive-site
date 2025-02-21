@@ -5,8 +5,13 @@
   --secondary-color: #1c3fa8;
   --dark-color: #002240;
   --light-color: #f4f4f4;
-  --success-color: #5cb85c;
-  --error-color: #d9534f;
+  --gray-color: #333;
+  --white-color: #fff;
+  --black-color: #000;
+  --blue-color: #1773ea;
+  --light-blue-color: #1c9cea;
+  --pink-color: #b32e87;
+  --dark-blue-color: rgba(0 0 0 / 10%);
 }
 
 * {
@@ -17,13 +22,13 @@
 
 body {
   font-family: Lato, sans-serif;
-  color: #333;
+  color: var(--gray-color);
   line-height: 1.6;
 }
 
 a {
   text-decoration: none;
-  color: #333;
+  color: var(--gray-color);
 }
 
 h1,
@@ -33,15 +38,19 @@ h2 {
   margin: 10px 0;
 }
 
+p {
+  margin: 10px 0;
+}
+
 /* Navbar */
 .navbar {
   background-color: var(--primary-color);
-  color: #fff;
+  color: var(--white-color);
   height: 70px;
 }
 
 .navbar a {
-  color: #fff;
+  color: var(--white-color);
   padding: 10px;
   margin: 0 5px;
 }
@@ -53,7 +62,7 @@ h2 {
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
-  color: #fff;
+  color: var(--white-color);
   position: relative;
 }
 
@@ -73,4 +82,26 @@ h2 {
 
 .showcase-text {
   animation: slideInFromLeft 1s ease-in;
+}
+
+.statistics-section {
+  padding-top: 100px;
+}
+
+.statistics-head {
+  max-width: 650px;
+  margin: auto;
+}
+
+.grid-3 {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.statistics-section h3 {
+  font-size: 35px;
+}
+
+.statistics-section p {
+  font-size: 20px;
+  font-weight: bold;
 }

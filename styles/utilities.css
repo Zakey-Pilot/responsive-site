@@ -13,3 +13,22 @@
   align-items: center;
   height: 100%;
 }
+
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-secondary {
+  color: var(--secondary-color);
+}
+
+.my-4 {
+  margin: 3rem 0;
+}
