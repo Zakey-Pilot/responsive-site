@@ -29,6 +29,14 @@
   color: var(--secondary-color);
 }
 
+.my-2 {
+  margin: 1.5rem 0;
+}
+
 .my-4 {
   margin: 3rem 0;
+}
+
+.md {
+  font-size: 2rem;
 }
