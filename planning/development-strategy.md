@@ -8,10 +8,10 @@ A simple little website for deployment.
 
 ## Setup
 
-- [ ] Boilerplate HTML file.
-- [ ] Page title in the HTML file.
-- [ ] empty CSS file.
-- [ ] CSS file is linked to HTML.
+- [ ] Boilerplate HTML file
+- [ ] Page title in the HTML file
+- [ ] empty CSS file
+- [ ] CSS file is linked to HTML
 
 ---
 
