@@ -1,109 +1,133 @@
 <!DOCTYPE html>
 <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="A project focused on rebuilding a responsive design tutorial while learning and applying best practices in project planning, Agile methodology, Git, and teamwork."
+    />
+    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+      integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
+      crossorigin="anonymous"
+    />
+    <link href="./styles/utilities.css" rel="stylesheet" />
+    <link href="./styles/index.css" rel="stylesheet" />
+    <title>Loruki | Cloud Hosting For Everyone!</title>
+  </head>
 
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description"
-    content="A project focused on rebuilding a responsive design tutorial while learning and applying best practices in project planning, Agile methodology, Git, and teamwork." />
-  <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
-    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
-    crossorigin="anonymous" />
-  <link href="./styles/utilities.css" rel="stylesheet" />
-  <link href="./styles/index.css" rel="stylesheet" />
-  <title>Loruki | Cloud Hosting For Everyone!</title>
-</head>
-
-<body>
-  <header>
-    <div class="navbar">
-      <div class="container flex">
-        <h1 class="logo"><a href="index.html">Loruki.</a></h1>
-        <nav>
-          <ul>
-            <li><a href="index.html">Home</a></li>
-            <li><a href="#stats">statistics</a></li>
-            <li><a href="#lang">Languages</a></li>
-          </ul>
-        </nav>
-      </div>
-    </div>
-  </header>
-  <main>
-    <section class="showcase">
-      <div class="container grid">
-        <div class="showcase-text">
-          <h1>Easier Deployment</h1>
-          <p>
-            Deploy web apps of all kinds, from large scale enterprise APIs to
-            static websites for individuals. Fill out the form to try a demo
-            of our platform
-          </p>
+  <body>
+    <header>
+      <div class="navbar">
+        <div class="container flex">
+          <h1 class="logo"><a href="index.html">Loruki.</a></h1>
+          <nav>
+            <ul>
+              <li><a href="index.html">Home</a></li>
+              <li><a href="#stats">statistics</a></li>
+              <li><a href="#lang">Languages</a></li>
+            </ul>
+          </nav>
         </div>
       </div>
-    </section>
-
-    <section id="stats" class="statistics-section">
-      <div class="container">
-        <h2 class="statistics-head text-center">
-          Welcome to the best platform for building applications of all types
-          with modern architecture and scaling
-        </h2>
-        <div class="grid grid-3 my-4 text-center">
-          <div class="">
-            <i class="fas fa-server fa-3x"></i>
-            <h3>10,349,405</h3>
-            <p class="text-secondary">Deployments</p>
-          </div>
-          <div class="">
-            <i class="fas fa-upload fa-3x"></i>
-            <h3>987 TB</h3>
-            <p class="text-secondary">Published</p>
-          </div>
-          <div class="">
-            <i class="fas fa-project-diagram fa-3x"></i>
-            <h3>2,343,265</h3>
-            <p class="text-secondary">Projects</p>
+    </header>
+    <main>
+      <section class="showcase">
+        <div class="container grid">
+          <div class="showcase-text">
+            <h1>Easier Deployment</h1>
+            <p>
+              Deploy web apps of all kinds, from large scale enterprise APIs to
+              static websites for individuals. Fill out the form to try a demo
+              of our platform
+            </p>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
 
-    <section id="lang" class="languages">
-      <h2 class="md text-center my-2">Supported Languages</h2>
-      <div class="container flex">
-        <div class="card">
-          <h4>Node.js</h4>
-          <img src="./public/assets/programming-languages/node.png" alt="node js" />
+      <section id="stats" class="statistics-section">
+        <div class="container">
+          <h2 class="statistics-head text-center">
+            Welcome to the best platform for building applications of all types
+            with modern architecture and scaling
+          </h2>
+          <div class="grid grid-3 my-4 text-center">
+            <div class="">
+              <i class="fas fa-server fa-3x"></i>
+              <h3>10,349,405</h3>
+              <p class="text-secondary">Deployments</p>
+            </div>
+            <div class="">
+              <i class="fas fa-upload fa-3x"></i>
+              <h3>987 TB</h3>
+              <p class="text-secondary">Published</p>
+            </div>
+            <div class="">
+              <i class="fas fa-project-diagram fa-3x"></i>
+              <h3>2,343,265</h3>
+              <p class="text-secondary">Projects</p>
+            </div>
+          </div>
         </div>
-        <div class="card">
-          <h4>Python</h4>
-          <img src="./public/assets/programming-languages/python.png" alt="python" />
-        </div>
-        <div class="card">
-          <h4>C#</h4>
-          <img src="./public/assets/programming-languages/csharp.png" alt="c#" />
-        </div>
-        <div class="card">
-          <h4>Ruby</h4>
-          <img src="./public/assets/programming-languages/ruby.png" alt="ruby" />
-        </div>
-        <div class="card">
-          <h4>PHP</h4>
-          <img src="./public/assets/programming-languages/php.png" alt="php" />
-        </div>
-        <div class="card">
-          <h4>Scala</h4>
-          <img src="./public/assets/programming-languages/scala.png" alt="scala" />
-        </div>
-        <div class="card">
-          <h4>Clojure</h4>
-          <img src="./public/assets/programming-languages/clojure.png" alt="clojure" />
-        </div>
-      </div>
-    </section>
-  </main>
-</body>
+      </section>
 
+      <section id="lang" class="languages">
+        <h2 class="md text-center my-2">Supported Languages</h2>
+        <div class="container flex">
+          <div class="card">
+            <h4>Node.js</h4>
+            <img
+              src="./public/assets/programming-languages/node.png"
+              alt="node js"
+            />
+          </div>
+          <div class="card">
+            <h4>Python</h4>
+            <img
+              src="./public/assets/programming-languages/python.png"
+              alt="python"
+            />
+          </div>
+          <div class="card">
+            <h4>C#</h4>
+            <img
+              src="./public/assets/programming-languages/csharp.png"
+              alt="c#"
+            />
+          </div>
+          <div class="card">
+            <h4>Ruby</h4>
+            <img
+              src="./public/assets/programming-languages/ruby.png"
+              alt="ruby"
+            />
+          </div>
+          <div class="card">
+            <h4>PHP</h4>
+            <img
+              src="./public/assets/programming-languages/php.png"
+              alt="php"
+            />
+          </div>
+          <div class="card">
+            <h4>Scala</h4>
+            <img
+              src="./public/assets/programming-languages/scala.png"
+              alt="scala"
+            />
+          </div>
+          <div class="card">
+            <h4>Clojure</h4>
+            <img
+              src="./public/assets/programming-languages/clojure.png"
+              alt="clojure"
+            />
+          </div>
+        </div>
+      </section>
+    </main>
+  </body>
 </html>
