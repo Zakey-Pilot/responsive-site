@@ -26,6 +26,10 @@ body {
   line-height: 1.6;
 }
 
+ul {
+  list-style-type: none;
+}
+
 a {
   text-decoration: none;
   color: var(--gray-color);
@@ -49,16 +53,25 @@ p {
   height: 70px;
 }
 
+.navbar ul {
+  display: flex;
+}
+
 .navbar a {
   color: var(--white-color);
   padding: 10px;
   margin: 0 5px;
 }
 
+.navbar ul a:hover {
+  border-bottom: 2px #fff solid;
+}
+
 .navbar .flex {
   justify-content: space-between;
 }
 
+/* showcase */
 .showcase {
   height: 400px;
   background-color: var(--primary-color);
@@ -84,6 +97,7 @@ p {
   animation: slideInFromLeft 1s ease-in;
 }
 
+/* statistics */
 .statistics-section {
   padding-top: 100px;
 }
@@ -106,6 +120,7 @@ p {
   font-weight: bold;
 }
 
+/* languages */
 .languages .flex {
   flex-wrap: wrap;
 }
