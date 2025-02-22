@@ -146,7 +146,7 @@ p {
   .statistics-section .grid,
   .showcase .grid {
     grid-template-columns: 1fr;
-    grid-template-rows: 1fr
+    grid-template-rows: 1fr;
   }
 
   .showcase {
@@ -158,7 +158,6 @@ p {
     margin-top: 40px;
     animation: slideInFromTop 1s ease-in;
   }
-
 }
 
 @media (max-width <=500px) {
@@ -174,5 +173,4 @@ p {
     padding: 10px;
     background-color: rgba(0 0 0 /10%);
   }
-
 }
