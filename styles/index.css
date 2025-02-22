@@ -124,3 +124,40 @@ p {
   font-size: 20px;
   margin-bottom: 10px;
 }
+
+@media (width <=768px) {
+
+  /* stylelint-disable-next-line rule-empty-line-before */
+  .statistics-section .grid,
+  .grid .showcase .grid {
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr
+  }
+
+  .showcase {
+    height: auto;
+  }
+
+  .showcase-text {
+    text-align: center;
+    margin-top: 40px;
+    animation: slideInFromTop 1s ease-in;
+  }
+
+}
+
+@media (max-width <=500px) {
+  .navbar {
+    height: 110px;
+  }
+
+  .navbar .flex {
+    flex-direction: column;
+  }
+
+  .navbar ul {
+    padding: 10px;
+    background-color: rgba(0 0 0 /10%);
+  }
+
+}
