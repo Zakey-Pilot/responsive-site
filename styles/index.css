@@ -140,11 +140,11 @@ p {
   margin-bottom: 10px;
 }
 
-@media (width <=768px) {
+@media (max-width <=768px) {
 
   /* stylelint-disable-next-line rule-empty-line-before */
   .statistics-section .grid,
-  .grid .showcase .grid {
+  .showcase .grid {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr
   }
