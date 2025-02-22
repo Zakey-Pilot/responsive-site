@@ -24,7 +24,8 @@
     "Shuqair",
     "flexbox",
     "Traversy",
-    "Rahaf"
+    "Rahaf",
+    "stylelint"
   ],
   "ignorePaths": [
     "node_modules/**",
